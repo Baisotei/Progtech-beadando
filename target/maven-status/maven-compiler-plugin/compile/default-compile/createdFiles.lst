@@ -1,0 +1,9 @@
+model\EredmenyDAO.class
+com\mycompany\progtech\MainApp.class
+model\Lep.class
+model\EredmenyDAOImpl.class
+model\Tabla.class
+com\mycompany\progtech\NyertController.class
+model\Eredmeny.class
+model\EredmenyDAOFactory.class
+com\mycompany\progtech\FXMLController.class

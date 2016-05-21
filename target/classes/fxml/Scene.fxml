@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import java.util.ArrayList?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.progtech.FXMLController">
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    </rowConstraints>
+    <children>
+        <StackPane fx:id="mezo00" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" />
+        <StackPane fx:id="mezo01" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" />
+        <StackPane fx:id="mezo02" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" />
+        <StackPane fx:id="mezo03" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" />
+        <StackPane fx:id="mezo04" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" />
+        <StackPane fx:id="mezo05" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" />
+        <StackPane fx:id="mezo06" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" />
+        <StackPane fx:id="mezo07" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" />
+        <StackPane fx:id="mezo10" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo11" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo12" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo13" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo14" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo15" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo16" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo17" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+        <StackPane fx:id="mezo20" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo21" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo22" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo23" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo24" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo25" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo26" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo27" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+        <StackPane fx:id="mezo30" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo31" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo32" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo33" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo34" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo35" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo36" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo37" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+        <StackPane fx:id="mezo40" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo41" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo42" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo43" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo44" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo45" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo46" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo47" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="4" />
+        <StackPane fx:id="mezo50" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo51" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo52" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo53" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo54" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo55" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo56" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo57" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="5" />
+        <StackPane fx:id="mezo60" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo61" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo62" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo63" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo64" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo65" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo66" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo67" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="6" />
+        <StackPane fx:id="mezo70" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo71" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo72" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo73" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo74" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo75" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="5" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo76" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="6" GridPane.rowIndex="7" />
+        <StackPane fx:id="mezo77" onMouseClicked="#kethuszar" prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="7" GridPane.rowIndex="7" />
+    </children>
+   
+    <fx:define>
+        <ArrayList fx:id="sor0">
+            <fx:reference source="mezo00" />
+            <fx:reference source="mezo01" />
+            <fx:reference source="mezo02" />
+            <fx:reference source="mezo03" />
+            <fx:reference source="mezo04" />
+            <fx:reference source="mezo05" />
+            <fx:reference source="mezo06" />
+            <fx:reference source="mezo07" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor1">
+            <fx:reference source="mezo10" />
+            <fx:reference source="mezo11" />
+            <fx:reference source="mezo12" />
+            <fx:reference source="mezo13" />
+            <fx:reference source="mezo14" />
+            <fx:reference source="mezo15" />
+            <fx:reference source="mezo16" />
+            <fx:reference source="mezo17" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor2">
+            <fx:reference source="mezo20" />
+            <fx:reference source="mezo21" />
+            <fx:reference source="mezo22" />
+            <fx:reference source="mezo23" />
+            <fx:reference source="mezo24" />
+            <fx:reference source="mezo25" />
+            <fx:reference source="mezo26" />
+            <fx:reference source="mezo27" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor3">
+            <fx:reference source="mezo30" />
+            <fx:reference source="mezo31" />
+            <fx:reference source="mezo32" />
+            <fx:reference source="mezo33" />
+            <fx:reference source="mezo34" />
+            <fx:reference source="mezo35" />
+            <fx:reference source="mezo36" />
+            <fx:reference source="mezo37" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor4">
+            <fx:reference source="mezo40" />
+            <fx:reference source="mezo41" />
+            <fx:reference source="mezo42" />
+            <fx:reference source="mezo43" />
+            <fx:reference source="mezo44" />
+            <fx:reference source="mezo45" />
+            <fx:reference source="mezo46" />
+            <fx:reference source="mezo47" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor5">
+            <fx:reference source="mezo50" />
+            <fx:reference source="mezo51" />
+            <fx:reference source="mezo52" />
+            <fx:reference source="mezo53" />
+            <fx:reference source="mezo54" />
+            <fx:reference source="mezo55" />
+            <fx:reference source="mezo56" />
+            <fx:reference source="mezo57" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor6">
+            <fx:reference source="mezo60" />
+            <fx:reference source="mezo61" />
+            <fx:reference source="mezo62" />
+            <fx:reference source="mezo63" />
+            <fx:reference source="mezo64" />
+            <fx:reference source="mezo65" />
+            <fx:reference source="mezo66" />
+            <fx:reference source="mezo67" />
+            
+        </ArrayList>
+        <ArrayList fx:id="sor7">
+            <fx:reference source="mezo70" />
+            <fx:reference source="mezo71" />
+            <fx:reference source="mezo72" />
+            <fx:reference source="mezo73" />
+            <fx:reference source="mezo74" />
+            <fx:reference source="mezo75" />
+            <fx:reference source="mezo76" />
+            <fx:reference source="mezo77" />
+            
+        </ArrayList>
+        
+        <ArrayList fx:id="tabla">
+            <fx:reference source="sor0" />
+            <fx:reference source="sor1" />
+            <fx:reference source="sor2" />
+            <fx:reference source="sor3" />
+            <fx:reference source="sor4" />
+            <fx:reference source="sor5" />
+            <fx:reference source="sor6" />
+            <fx:reference source="sor7" />  
+        </ArrayList>
+    </fx:define>
+</GridPane>
